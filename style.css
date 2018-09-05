@@ -123,6 +123,7 @@ font-size:1rem;
 
 .arrows {
   display:flex;
+ /* position:absolute;*/
   justify-content: space-between;
   align-items: center;
   height:96vh;
@@ -338,7 +339,7 @@ button {
   .box3 {
     background: url('images/model2.png');
     background-size: cover ;
-    height: 70%;
+    height: 54%;
   }
 
   .arrows {
