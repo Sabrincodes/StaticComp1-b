@@ -88,3 +88,83 @@ font-size:1rem;
    background-image: url('images/model2.png');
    background-size:cover;
 }
+
+.dots {
+  display:flex;
+  flex-direction:row-reverse;
+  justify-content: flex-end; 
+  margin-left:auto;
+}
+
+
+.dots i {
+  font-size: 1rem;
+}
+
+.fa-circle {
+  margin: 13px 5px 0 0;
+}
+
+
+.circle-one {
+  opacity: 0.5;
+  margin-right: 10px;
+}
+
+.circle-two {
+  opacity: 0.5;
+}
+
+.circle-three {
+  color: black;
+  opacity: 0.8; 
+}
+
+.arrows {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height:96vh;
+  width: 90%;
+
+
+}
+
+.fa-arrow-left, 
+.fa-arrow-right {
+  font-size: 4em;
+  opacity: 0.5;
+}
+
+.fa-arrow-left:hover, 
+.fa-arrow-right:hover {
+  opacity: 1;
+}
+
+.box4  {
+  background-color: #6a5a53;
+}
+
+
+.box5 {
+  background-color: #888786;
+}
+
+
+.box6  {
+
+  background-color:#b1b8bf;
+
+}
+
+.fa-edit {
+  margin-left: 5%;
+}
+
+
+.box7 {
+
+  background-color: #d4dbe3;
+ 
+
+}
